@@ -1,0 +1,14 @@
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.exe
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.deps.json
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.runtimeconfig.json
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.runtimeconfig.dev.json
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.dll
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\bin\Debug\netcoreapp3.1\ClimaTempo.pdb
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.csproj.AssemblyReference.cache
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.AssemblyInfoInputs.cache
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.AssemblyInfo.cs
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.csproj.CoreCompileInputs.cache
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.dll
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.pdb
+C:\Users\fabiana.sdkamamoto\source\repos\ClimaTempo\ClimaTempo\obj\Debug\netcoreapp3.1\ClimaTempo.genruntimeconfig.cache
